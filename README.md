@@ -1,5 +1,5 @@
-# **User Service**
-Service to handle authentication as well as authorization.
+# **Email Service**
+Service to handle sending emails after signup.
 
 ## **Requirements**
 * JDK 17+
