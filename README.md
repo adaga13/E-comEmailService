@@ -1,5 +1,5 @@
-# **User Service**
-Service to handle authentication as well as authorization.
+# **Email Service**
+Service to handle emails using kafka events after user signs up on user service.
 
 ## **Requirements**
 * JDK 17+
